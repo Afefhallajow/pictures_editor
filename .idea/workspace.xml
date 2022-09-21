@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dc1a7784-9166-40ee-af0a-7e51fc11d726" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaFXApplication" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1toD63F24oFxhdQzhhenOQViqit" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/snmp4j-2.8.7" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\Downloads\Compressed\miltimedia\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.myapp">
+    <configuration name="SeamCarver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SeamCarver" />
+      <module name="miltimedia" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="myapp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myapp" />
+      <module name="miltimedia" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.myapp" />
+        <item itemvalue="Application.SeamCarver" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dc1a7784-9166-40ee-af0a-7e51fc11d726" name="Default Changelist" comment="" />
+      <created>1623426369421</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623426369421</updated>
+      <workItem from="1623426387929" duration="2046000" />
+      <workItem from="1623429950563" duration="1584000" />
+      <workItem from="1623435491076" duration="6420000" />
+      <workItem from="1623451077640" duration="2422000" />
+      <workItem from="1623454429175" duration="2838000" />
+      <workItem from="1623529140149" duration="129000" />
+      <workItem from="1624379846343" duration="8432000" />
+      <workItem from="1624415460800" duration="757000" />
+      <workItem from="1624444194430" duration="742000" />
+      <workItem from="1624506994996" duration="16634000" />
+      <workItem from="1624530916370" duration="1687000" />
+      <workItem from="1624532866050" duration="687000" />
+      <workItem from="1624533627916" duration="3109000" />
+      <workItem from="1624537269773" duration="208000" />
+      <workItem from="1624801533290" duration="4944000" />
+      <workItem from="1624812552254" duration="471000" />
+      <workItem from="1624852340846" duration="1548000" />
+      <workItem from="1637311710908" duration="208000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
